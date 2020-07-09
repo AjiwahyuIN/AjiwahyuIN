@@ -1,7 +1,6 @@
 ### Hi, I'M Ajiwahyu 👋
 
 * 🌱 I’m currently learning on Amikom University
-*  
 * 📫 Best way to reach me is via [twitter](https://twitter.com/ajiwahyu_in) or [LinkedIn](https://www.linkedin.com/in/ajiwahyuin/)
 
 <!--
