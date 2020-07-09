@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'M Ajiwahyu 👋
+
+* 🌱 I’m currently learning on Amikom University
+*  
+* 📫 Best way to reach me is via [twitter](https://twitter.com/ajiwahyu_in) or [LinkedIn](https://www.linkedin.com/in/ajiwahyuin/)
 
 <!--
 **AjiwahyuIN/AjiwahyuIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,12 +10,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-🌱 I’m currently learning on Amikom University
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-📫 How to reach me: 
-  twitter : https://twitter.com/ajiwahyu_in
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
